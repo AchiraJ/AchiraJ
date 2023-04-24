@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @AchiraJ (Jonathan Achira)
 - 👀 I’m interested in learning programming for software dev and ML
 - 🌱 I’m currently learning Computer Science at Kibo School of Technology
+- 
 - 💞️ I’m looking to collaborate on Software Development
+
+-    I'm an electrical engineer with a speciality in control and automation
+-    Currently, in the E-Mobility space dealing with Electric Vehicles ( Electric Revolution)
 -          Meanwhile dont forget to check out E-Mobility to reduce Carbon Footprint
 - 📫 How to reach me 
 -       Email: achirajonathan@gmail.com
